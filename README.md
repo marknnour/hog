@@ -1,4 +1,3 @@
-# hog
 # The Game of Hog
 
 ## 1. Introduction 
