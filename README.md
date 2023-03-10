@@ -1,6 +1,6 @@
 # The Game of Hog
 
-https://raw.githubusercontent.com/timkchan/hog/master/images/hog_gp.gif
+![hog gif](https://user-images.githubusercontent.com/115903496/224200965-c1770b0d-915e-4005-af6f-e2ee82785ebe.gif)
 
 ## 1. Introduction 
 
@@ -38,7 +38,7 @@ Files in the project:
   - `hog_gui.py`: A graphical user interface (GUI) for Hog
   - `ucb.py`: Utility functions for CS 61A
   - `hog_ui.py`: A text-based user-interface (UI) for Hog
-  - images: A directory of images used by hog_gui.py
+ 
 
 ## 4. Running GUI
 
